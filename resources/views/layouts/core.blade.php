@@ -12,7 +12,7 @@
 </head>
 <body>
 	
-	<main style="margin-top: 50px">
+	<main style="margin-top: 55px; padding-top: 30px">
 		@yield('app')
 	</main>
 

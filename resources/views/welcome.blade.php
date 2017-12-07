@@ -6,8 +6,8 @@
 		  <h1 class="jumbotron-heading">ONE UA</h1>
 		  <p class="lead text-muted">Українська соціальна мережа</p>
 		  <p>
-			<a href="#" class="btn btn-primary">Увійти</a>
-			<a href="#" class="btn btn-secondary">Зареєструватися</a>
+			<a href="{{ route('login') }}" class="btn btn-primary">Увійти</a>
+			<a href="{{ route('register') }}" class="btn btn-secondary">Зареєструватися</a>
 		  </p>
 		</div>
 	</section>
